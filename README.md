@@ -1,2 +1,2 @@
-# TrajectoPrediction_bench
+# TrajectoPredictionBench
 本项目旨在建立一个用于对比行人轨迹预测算法的benchmarking平台，帮助研究人员探索和学习。
